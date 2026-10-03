@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+.pytest_cache/
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep

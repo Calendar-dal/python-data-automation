@@ -1,0 +1,4 @@
+record_id,customer_name,email,amount,status,order_date
+1006,Liam Brown,liam@example.com,320.00,completed,2026-03-02
+1007,Sofia Garcia,sofia@example.com,45.50,,2026-03-09
+1008,,customer8@example.com,118.25,completed,2026-03-15

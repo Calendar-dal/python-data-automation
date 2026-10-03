@@ -1,0 +1,4 @@
+record_id,customer_name,email,amount,status,order_date
+1009,Oliver Smith,oliver@example.com,74.00,completed,2026-04-04
+1010,Mia Jones,mia@example.com,199.99,pending,2026-04-11
+1006,Liam Brown,liam@example.com,320.00,completed,2026-03-02
